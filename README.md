@@ -9,8 +9,8 @@ Ce projet est mon portfolio personnel construit en utilisant [Next.js](https://n
    git clone https://github.com/votre-utilisateur/mon-portfolio-next.git
 
 2. **Installer les Dépendances :**
-  ```cd mon-portfolio-next
-  npm install
+   ```cd mon-portfolio-next
+   npm install
 
 3. **Lancer le Projet :**
    ```npm run build
